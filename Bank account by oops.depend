@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1689187828 source:c:\users\i dream\desktop\programs\bank account by oops\main.cpp
+	<iostream>
+	<string>
+	<string.h>
+
+1689189328 source:d:\programs\bank account by oops\main.cpp
+	<iostream>
+	<string>
+	<string.h>
+
+1689189328 source:e:\programs\bank account by oops\main.cpp
+	<iostream>
+	<string>
+	<string.h>
+
